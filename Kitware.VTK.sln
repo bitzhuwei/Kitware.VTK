@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelMesh", "Examples\DelMesh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dialog", "Examples\Dialog\Dialog.csproj", "{9EA6E9D8-FE4C-4FBE-A88E-BC6304CC7294}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTree", "Examples\FileTree\FileTree\FileTree.csproj", "{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,16 @@ Global
 		{9EA6E9D8-FE4C-4FBE-A88E-BC6304CC7294}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{9EA6E9D8-FE4C-4FBE-A88E-BC6304CC7294}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{9EA6E9D8-FE4C-4FBE-A88E-BC6304CC7294}.Release|x64.ActiveCfg = Release|Any CPU
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Debug|x64.ActiveCfg = Debug|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Debug|x64.Build.0 = Debug|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Release|Any CPU.ActiveCfg = Release|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Release|Mixed Platforms.Build.0 = Release|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Release|x64.ActiveCfg = Release|x64
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,5 +121,6 @@ Global
 		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{39173C65-525A-4812-BA8F-24DE9085F2CE} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{9EA6E9D8-FE4C-4FBE-A88E-BC6304CC7294} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
+		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 	EndGlobalSection
 EndGlobal
