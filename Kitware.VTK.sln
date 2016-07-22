@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxWidget", "Examples\BoxWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeAxes", "Examples\CubeAxes\CubeAxes.csproj", "{7DA1B5F7-02E3-4A6E-85BF-2EC2E911162A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decimate", "Examples\Decimate\Decimate.csproj", "{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelMesh", "Examples\DelMesh\DelMesh.csproj", "{39173C65-525A-4812-BA8F-24DE9085F2CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,26 @@ Global
 		{7DA1B5F7-02E3-4A6E-85BF-2EC2E911162A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{7DA1B5F7-02E3-4A6E-85BF-2EC2E911162A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{7DA1B5F7-02E3-4A6E-85BF-2EC2E911162A}.Release|x64.ActiveCfg = Release|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF}.Release|x64.ActiveCfg = Release|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{39173C65-525A-4812-BA8F-24DE9085F2CE}.Release|x64.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,5 +94,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6110C82D-82A9-4703-A28A-862F73B22384} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{7DA1B5F7-02E3-4A6E-85BF-2EC2E911162A} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
+		{C946FF73-93AC-4546-9AE9-5FEB0C446BFF} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
+		{39173C65-525A-4812-BA8F-24DE9085F2CE} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 	EndGlobalSection
 EndGlobal

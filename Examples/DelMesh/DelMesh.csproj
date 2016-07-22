@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DA1B5F7-02E3-4A6E-85BF-2EC2E911162A}</ProjectGuid>
+    <ProjectGuid>{39173C65-525A-4812-BA8F-24DE9085F2CE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CubeAxes</RootNamespace>
-    <AssemblyName>CubeAxes</AssemblyName>
+    <RootNamespace>DelMesh</RootNamespace>
+    <AssemblyName>DelMesh</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
