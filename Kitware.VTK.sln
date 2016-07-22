@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTree", "Examples\FileTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streamline", "Examples\Streamline\Streamline.csproj", "{55022DC0-92D6-450F-8A2E-37ECC81A36F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpherePuzzle", "Examples\SpherePuzzle\SpherePuzzle.csproj", "{7A80E87A-02A9-43A5-9F19-25168A33362C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,16 @@ Global
 		{55022DC0-92D6-450F-8A2E-37ECC81A36F0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{55022DC0-92D6-450F-8A2E-37ECC81A36F0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{55022DC0-92D6-450F-8A2E-37ECC81A36F0}.Release|x64.ActiveCfg = Release|Any CPU
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Debug|x64.ActiveCfg = Debug|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Debug|x64.Build.0 = Debug|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Release|Any CPU.ActiveCfg = Release|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Release|Mixed Platforms.Build.0 = Release|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Release|x64.ActiveCfg = Release|x64
+		{7A80E87A-02A9-43A5-9F19-25168A33362C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,5 +147,6 @@ Global
 		{9EA6E9D8-FE4C-4FBE-A88E-BC6304CC7294} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{4821EE04-7FAD-420E-AFD8-ED32CA7AD174} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{55022DC0-92D6-450F-8A2E-37ECC81A36F0} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
+		{7A80E87A-02A9-43A5-9F19-25168A33362C} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 	EndGlobalSection
 EndGlobal
