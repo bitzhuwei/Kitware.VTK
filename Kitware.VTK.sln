@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpherePuzzle", "Examples\Sp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloVTKConsole", "Examples\HelloVTKConsole\HelloVTKConsole.csproj", "{2CF2F64A-0B3E-4A7D-9D22-6DBB652067AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloVTKForm", "Examples\HelloVTKForm\HelloVTKForm.csproj", "{0C704E69-6C98-4C5C-8B82-D940FF767BE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,16 @@ Global
 		{2CF2F64A-0B3E-4A7D-9D22-6DBB652067AF}.Release|Mixed Platforms.Build.0 = Release|x64
 		{2CF2F64A-0B3E-4A7D-9D22-6DBB652067AF}.Release|x64.ActiveCfg = Release|x64
 		{2CF2F64A-0B3E-4A7D-9D22-6DBB652067AF}.Release|x64.Build.0 = Release|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Debug|x64.ActiveCfg = Debug|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Debug|x64.Build.0 = Debug|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Release|Any CPU.ActiveCfg = Release|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Release|Mixed Platforms.Build.0 = Release|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Release|x64.ActiveCfg = Release|x64
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,5 +173,6 @@ Global
 		{55022DC0-92D6-450F-8A2E-37ECC81A36F0} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{7A80E87A-02A9-43A5-9F19-25168A33362C} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{2CF2F64A-0B3E-4A7D-9D22-6DBB652067AF} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
+		{0C704E69-6C98-4C5C-8B82-D940FF767BE9} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 	EndGlobalSection
 EndGlobal
