@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventMonitor", "Examples\Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeRendering", "Examples\VolumeRendering\VolumeRendering.csproj", "{EECB0EA5-0227-46A8-9A72-7635C512EB41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wikipedia", "Examples\Wikipedia\Wikipedia.csproj", "{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,16 @@ Global
 		{EECB0EA5-0227-46A8-9A72-7635C512EB41}.Release|Mixed Platforms.Build.0 = Release|x64
 		{EECB0EA5-0227-46A8-9A72-7635C512EB41}.Release|x64.ActiveCfg = Release|x64
 		{EECB0EA5-0227-46A8-9A72-7635C512EB41}.Release|x64.Build.0 = Release|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Debug|x64.ActiveCfg = Debug|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Debug|x64.Build.0 = Debug|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Release|Any CPU.ActiveCfg = Release|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Release|Mixed Platforms.Build.0 = Release|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Release|x64.ActiveCfg = Release|x64
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -200,5 +212,6 @@ Global
 		{0C704E69-6C98-4C5C-8B82-D940FF767BE9} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{B35A27FB-4F20-41A0-BF67-ED91D3491917} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 		{EECB0EA5-0227-46A8-9A72-7635C512EB41} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
+		{B48C1EE5-28E8-41D7-BEB0-53B2EAD15060} = {C7A15D05-48EB-415B-BB87-4982B75CCE4E}
 	EndGlobalSection
 EndGlobal
